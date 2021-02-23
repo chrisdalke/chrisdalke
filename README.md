@@ -2,5 +2,5 @@
 
 --- 
 - Software Developer at [Convene](https://convene.com/) - We create your best day at work, wherever it happens.
-- Interested in large-scale data-collection and visualization, telemetry systems
-- Building [TelemetryJet](https://www.telemetryjet.com/), a no-code platform for hardware data collection, analysis, and sharing.
+- Interested in data collection, visualization, and control software for hardware systems.
+- Building [TelemetryJet](https://www.telemetryjet.com/), a data collection & analysis platform for experimental hardware systems.
