@@ -1,4 +1,4 @@
-### just keep hacking :hammer:
+### Just keep hacking :hammer:
 
 I'm Chris! I'm a full-stack software engineer with a focus on telemetry and controls for hardware systems. I bring a unique interdisciplinary skillset that combines software, mechanical & electrical prototyping, and fabrication. In my spare time, I build and fly RC airplanes, drones, and cars.
 
