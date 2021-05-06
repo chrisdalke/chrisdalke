@@ -7,6 +7,13 @@ I'm Chris! I'm a full-stack software engineer with a focus on telemetry, data vi
 - Interested in data collection, visualization, and controls for hardware systems.
 - Building [TelemetryJet](https://www.telemetryjet.com/), a data collection & analysis platform for experimental hardware systems.
 
+<img align="right" src="/icons/github.png"/>
+<img align="right" src="/icons/linkedin.png"/>
+<img align="right" src="/icons/youtube.png"/>
+<img align="right" src="/icons/twitter.png"/>
+<img align="right" src="/icons/email.png"/>
+
+
 [![Github](/icons/github.png)](https://github.com/chrisdalke)
 [![Github](/icons/linkedin.png)](https://www.linkedin.com/in/chrisdalke)
 [![Github](/icons/youtube.png)](https://www.youtube.com/channel/UCli_414nxoBYXDMmYaCHiQg)
