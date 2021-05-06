@@ -8,7 +8,7 @@ I'm Chris! I'm a full-stack software engineer with a focus on telemetry, data vi
 - Building [TelemetryJet](https://www.telemetryjet.com/), a data collection & analysis platform for experimental hardware systems.
 - Building RC airplanes, drones, and cars.
 
-
+#### Follow my work:
 [![Github](/icons/github.png)](https://github.com/chrisdalke)
 [![Github](/icons/linkedin.png)](https://www.linkedin.com/in/chrisdalke)
 [![Github](/icons/youtube.png)](https://www.youtube.com/channel/UCli_414nxoBYXDMmYaCHiQg)
