@@ -8,3 +8,6 @@ I'm Chris! I'm a full-stack software engineer with a focus on telemetry, data vi
 - Building [TelemetryJet](https://www.telemetryjet.com/), a data collection & analysis platform for experimental hardware systems.
 
 [![Github](/icons/github.png)](https://github.com/chrisdalke)
+[![Github](/icons/github.png)](https://github.com/chrisdalke)
+[![Github](/icons/github.png)](https://github.com/chrisdalke)
+[![Github](/icons/github.png)](https://github.com/chrisdalke)
