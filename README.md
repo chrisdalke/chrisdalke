@@ -6,7 +6,7 @@ I'm Chris! I'm a full-stack software engineer with a focus on telemetry, data vi
 
 - Software Developer at [908 Devices](https://908devices.com/), working on 908 Devices' line of portable, chemical analysis devices based on high-pressure mass spectrometry.
 - Building [TelemetryJet](https://www.telemetryjet.com/), a data collection & analysis platform for experimental hardware systems.
-- Building, flying and crashing autonomous model airplanes, drones, and cars.
+- Building and flying autonomous model airplanes, drones, and cars.
 
 #### Follow my work:
 [![Github](/icons/github.png)](https://github.com/chrisdalke)
